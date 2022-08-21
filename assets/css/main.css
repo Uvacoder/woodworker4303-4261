@@ -26,3 +26,7 @@ body {
   font-size: 18px;
   text-align: right;
 }
+
+.nav-link {
+  text-align: right;
+}
